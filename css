@@ -1,0 +1,9 @@
+h1 {
+  color: blue !important;
+  background-color: yellow !important;
+  border: 1px solid black;
+}
+
+p {
+  color: red !important;
+}
